@@ -28,3 +28,8 @@
   ```
     npx prisma migrate dev
   ```
+
+### Ref.
+
+[Link do Vídeo - Parte 01]("https://www.youtube.com/watch?v=BMTj4dk1Zlk")
+[Link do Vídeo - Parte 02]("https://www.youtube.com/watch?v=EEvF4GfZE6o")
